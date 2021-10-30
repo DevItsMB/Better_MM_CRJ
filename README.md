@@ -2,11 +2,11 @@
 
 
 List of supported liveries:
-- Caribbean Airlines
-- Eurowings
-- Atlantic Airways
-- KLM Cityhopper
-- Air Berlin
+- [Caribbean Airlines](https://flightsim.to/file/22380/caribbean-airlines-10k-aerosoft-crj-700)
+- [Eurowings](https://flightsim.to/file/10476/eurowings-crj-700-8k)
+- [Atlantic Airways](https://flightsim.to/file/22347/aerosoft-crj700-msfs-atlantic-airways)
+- [KLM Cityhopper](https://flightsim.to/file/10868/aerosoft-crj-700-klm-cityhopper)
+- [Air Berlin](https://flightsim.to/file/13284/aerosoft-crj700-air-berlin-version-2)
 - Delta Airlines*
 - AirFrance HOP!*
 - American Eagle*
@@ -31,4 +31,4 @@ That's all you need to do, have fun!
 Better Model Matching VATSIM |  Aerosoft CRJ works with other common model matching files.
 
 # GitHub
-<link>
+https://github.com/DevItsMB/Custom_MM_CRJ
