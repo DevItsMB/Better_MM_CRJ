@@ -1,4 +1,3 @@
-```
 # Better Model Matching VATSIM |  Aerosoft CRJ
 
 
@@ -32,4 +31,4 @@ That's all you need to do, have fun!
 Better Model Matching VATSIM |  Aerosoft CRJ works with other common model matching files.
 
 # GitHub
-<link>```
+<link>
