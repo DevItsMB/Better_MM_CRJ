@@ -1,5 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
  <ModelMatchRuleSet>
+  <!--
+  This free modelmatching file has been created by ItsMB and with the help of LupAir - https://github.com/DevItsMB
+
+  If you want to support my work, please leave a comment on the download page and share this to your friends.
+  
+  Model Matching For VATSIM based liveries on flightsim.to.
+  
+  VATSIM - https://www.vatsim.net/
+  flightsim.to - https://flightsim.to
+  -->
+  <ModelMatchRule CallsignPrefix="FIN" TypeCode="E145" ModelName="CRJ700ER Finnair - OH-LKF" />
+  <ModelMatchRule CallsignPrefix="FIN" TypeCode="E135" ModelName="CRJ700ER Finnair - OH-LKF" />
+  <ModelMatchRule CallsignPrefix="FIN" TypeCode="E170" ModelName="CRJ700ER Finnair - OH-LKF" />
+  <ModelMatchRule CallsignPrefix="FIN" TypeCode="E190" ModelName="CRJ700ER Finnair - OH-LKF" />
+  <ModelMatchRule CallsignPrefix="FIN" TypeCode="CRJ1" ModelName="CRJ700ER Finnair - OH-LKF" />
+  <ModelMatchRule CallsignPrefix="FIN" TypeCode="CRJ2" ModelName="CRJ700ER Finnair - OH-LKF" />
+  <ModelMatchRule CallsignPrefix="FIN" TypeCode="CRJ7" ModelName="CRJ700ER Finnair - OH-LKF" />
+  <ModelMatchRule CallsignPrefix="FIN" TypeCode="CRJ9" ModelName="CRJ700ER Finnair - OH-LKF" />
+  <ModelMatchRule CallsignPrefix="FIN" TypeCode="CRJX" ModelName="CRJ700ER Finnair - OH-LKF" />
+  
+  
+  <ModelMatchRule CallsignPrefix="LOT" TypeCode="E145" ModelName="CRJ700ER LOT" />
+  <ModelMatchRule CallsignPrefix="LOT" TypeCode="E135" ModelName="CRJ700ER LOT" />
+  <ModelMatchRule CallsignPrefix="LOT" TypeCode="E170" ModelName="CRJ700ER LOT" />
+  <ModelMatchRule CallsignPrefix="LOT" TypeCode="E190" ModelName="CRJ700ER LOT" />
+  <ModelMatchRule CallsignPrefix="LOT" TypeCode="CRJ1" ModelName="CRJ700ER LOT" />
+  <ModelMatchRule CallsignPrefix="LOT" TypeCode="CRJ2" ModelName="CRJ700ER LOT" />
+  <ModelMatchRule CallsignPrefix="LOT" TypeCode="CRJ7" ModelName="CRJ700ER LOT" />
+  <ModelMatchRule CallsignPrefix="LOT" TypeCode="CRJ9" ModelName="CRJ700ER LOT" />
+  <ModelMatchRule CallsignPrefix="LOT" TypeCode="CRJX" ModelName="CRJ700ER LOT" />
+  
+  
+  <ModelMatchRule CallsignPrefix="NAX" TypeCode="E145" ModelName="CRJ700ER NorwegianAirShuttle" />
+  <ModelMatchRule CallsignPrefix="NAX" TypeCode="E135" ModelName="CRJ700ER NorwegianAirShuttle" />
+  <ModelMatchRule CallsignPrefix="NAX" TypeCode="E170" ModelName="CRJ700ER NorwegianAirShuttle" />
+  <ModelMatchRule CallsignPrefix="NAX" TypeCode="E190" ModelName="CRJ700ER NorwegianAirShuttle" />
+  <ModelMatchRule CallsignPrefix="NAX" TypeCode="CRJ1" ModelName="CRJ700ER NorwegianAirShuttle" />
+  <ModelMatchRule CallsignPrefix="NAX" TypeCode="CRJ2" ModelName="CRJ700ER NorwegianAirShuttle" />
+  <ModelMatchRule CallsignPrefix="NAX" TypeCode="CRJ7" ModelName="CRJ700ER NorwegianAirShuttle" />
+  <ModelMatchRule CallsignPrefix="NAX" TypeCode="CRJ9" ModelName="CRJ700ER NorwegianAirShuttle" />
+  <ModelMatchRule CallsignPrefix="NAX" TypeCode="CRJX" ModelName="CRJ700ER NorwegianAirShuttle" />
+  
+    
+  <ModelMatchRule CallsignPrefix="HFY" TypeCode="E145" ModelName="CRJ700ER HiFLY AAMAS" />
+  <ModelMatchRule CallsignPrefix="HFY" TypeCode="E135" ModelName="CRJ700ER HiFLY AAMAS" />
+  <ModelMatchRule CallsignPrefix="HFY" TypeCode="E170" ModelName="CRJ700ER HiFLY AAMAS" />
+  <ModelMatchRule CallsignPrefix="HFY" TypeCode="E190" ModelName="CRJ700ER HiFLY AAMAS" />
+  <ModelMatchRule CallsignPrefix="HFY" TypeCode="CRJ1" ModelName="CRJ700ER HiFLY AAMAS" />
+  <ModelMatchRule CallsignPrefix="HFY" TypeCode="CRJ2" ModelName="CRJ700ER HiFLY AAMAS" />
+  <ModelMatchRule CallsignPrefix="HFY" TypeCode="CRJ7" ModelName="CRJ700ER HiFLY AAMAS" />
+  <ModelMatchRule CallsignPrefix="HFY" TypeCode="CRJ9" ModelName="CRJ700ER HiFLY AAMAS" />
+  <ModelMatchRule CallsignPrefix="HFY" TypeCode="CRJX" ModelName="CRJ700ER HiFLY AAMAS" />
+  
+  
+  <ModelMatchRule CallsignPrefix="BAW" TypeCode="E145" ModelName="CRJ700ER British Airways/Maersk Air" />
+  <ModelMatchRule CallsignPrefix="BAW" TypeCode="E135" ModelName="CRJ700ER British Airways/Maersk Air" />
+  <ModelMatchRule CallsignPrefix="BAW" TypeCode="E170" ModelName="CRJ700ER British Airways/Maersk Air" />
+  <ModelMatchRule CallsignPrefix="BAW" TypeCode="E190" ModelName="CRJ700ER British Airways/Maersk Air" />
+  <ModelMatchRule CallsignPrefix="BAW" TypeCode="CRJ1" ModelName="CRJ700ER British Airways/Maersk Air" />
+  <ModelMatchRule CallsignPrefix="BAW" TypeCode="CRJ2" ModelName="CRJ700ER British Airways/Maersk Air" />
+  <ModelMatchRule CallsignPrefix="BAW" TypeCode="CRJ7" ModelName="CRJ700ER British Airways/Maersk Air" />
+  <ModelMatchRule CallsignPrefix="BAW" TypeCode="CRJ9" ModelName="CRJ700ER British Airways/Maersk Air" />
+  <ModelMatchRule CallsignPrefix="BAW" TypeCode="CRJX" ModelName="CRJ700ER British Airways/Maersk Air" />
+
+
+  <ModelMatchRule CallsignPrefix="SHT" TypeCode="E145" ModelName="CRJ700ER British Airways/Maersk Air" />
+  <ModelMatchRule CallsignPrefix="SHT" TypeCode="E135" ModelName="CRJ700ER British Airways/Maersk Air" />
+  <ModelMatchRule CallsignPrefix="SHT" TypeCode="E170" ModelName="CRJ700ER British Airways/Maersk Air" />
+  <ModelMatchRule CallsignPrefix="SHT" TypeCode="E190" ModelName="CRJ700ER British Airways/Maersk Air" />
+  <ModelMatchRule CallsignPrefix="SHT" TypeCode="CRJ1" ModelName="CRJ700ER British Airways/Maersk Air" />
+  <ModelMatchRule CallsignPrefix="SHT" TypeCode="CRJ2" ModelName="CRJ700ER British Airways/Maersk Air" />
+  <ModelMatchRule CallsignPrefix="SHT" TypeCode="CRJ7" ModelName="CRJ700ER British Airways/Maersk Air" />
+  <ModelMatchRule CallsignPrefix="SHT" TypeCode="CRJ9" ModelName="CRJ700ER British Airways/Maersk Air" />
+  <ModelMatchRule CallsignPrefix="SHT" TypeCode="CRJX" ModelName="CRJ700ER British Airways/Maersk Air" />
+
+   
   <ModelMatchRule CallsignPrefix="BWA" TypeCode="E145" ModelName="CRJ 700 Caribbean Airlines" />
   <ModelMatchRule CallsignPrefix="BWA" TypeCode="E135" ModelName="CRJ 700 Caribbean Airlines" />
   <ModelMatchRule CallsignPrefix="BWA" TypeCode="E170" ModelName="CRJ 700 Caribbean Airlines" />
@@ -74,11 +150,13 @@
   <ModelMatchRule CallsignPrefix="DAL" TypeCode="CRJ9" ModelName="CRJ700ER Delta Airlines N391CA" />
   <ModelMatchRule CallsignPrefix="DAL" TypeCode="CRJX" ModelName="CRJ700ER Delta Airlines N391CA" />
 
+
   <ModelMatchRule CallsignPrefix="RPA" TypeCode="E145" ModelName="CRJ700ER Delta Airlines N391CA//CRJ700ER American Eagle N508AE" />
   <ModelMatchRule CallsignPrefix="RPA" TypeCode="E135" ModelName="CRJ700ER Delta Airlines N391CA//CRJ700ER American Eagle N508AE" />
   <ModelMatchRule CallsignPrefix="RPA" TypeCode="E170" ModelName="CRJ700ER Delta Airlines N391CA//CRJ700ER American Eagle N508AE" />
   <ModelMatchRule CallsignPrefix="RPA" TypeCode="E190" ModelName="CRJ700ER Delta Airlines N391CA//CRJ700ER American Eagle N508AE" />
-  
+
+
   <ModelMatchRule CallsignPrefix="RPA" TypeCode="CRJ1" ModelName="CRJ700ER Delta Airlines N391CA//CRJ700ER American Eagle N508AE" />
   <ModelMatchRule CallsignPrefix="RPA" TypeCode="CRJ2" ModelName="CRJ700ER Delta Airlines N391CA//CRJ700ER American Eagle N508AE" />
   <ModelMatchRule CallsignPrefix="RPA" TypeCode="CRJ7" ModelName="CRJ700ER Delta Airlines N391CA//CRJ700ER American Eagle N508AE" />
