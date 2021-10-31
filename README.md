@@ -34,7 +34,3 @@ That's all you need to do, have fun!
 
 # Note
 Better Model Matching VATSIM |  Aerosoft CRJ works with other common model matching files.
-
-# GitHub
-https://github.com/DevItsMB/Custom_MM_CRJ
-
