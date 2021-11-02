@@ -16,7 +16,7 @@ List of supported liveries:
 - American Eagle*
 - United Express*
 - Alaska Airlines*
-Note: Airlines marked with "*" are default liveries that come with the CRJ from Aerosoft.
+- Note: Airlines marked with "*" are default liveries that come with the CRJ from Aerosoft.
 
 # Requirements
 In order for this model matching to work, you need to have the payware Aerosoft CRJ7/550
