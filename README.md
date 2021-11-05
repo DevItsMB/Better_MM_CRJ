@@ -1,6 +1,11 @@
 # Better Model Matching VATSIM |  Aerosoft CRJ
 
 List of supported liveries:
+- [Ryanair](https://flightsim.to/file/10848/aerosoft-crj-700-ryanair)
+- [Aer Lingus Regional](https://flightsim.to/file/10508/aerosoft-crj-700-aer-l)
+- [LoganAir](https://flightsim.to/file/10414/aerosoft-crj-700-loganair)
+- [Air Canada Express / Jazz](https://flightsim.to/file/10455/aerosoft-crj-700-air-canada-express-jazz-ultra)
+- [Scandinavian Airlines](https://flightsim.to/file/10560/crj-700-scandinavian-airlines-sas-new-style-ultra-quality)
 - [Finnair](https://flightsim.to/file/19151/finnair-aerosoft-crj-700)
 - [LOT Polish Airlines](https://flightsim.to/file/10441/crj700-lot-polish-airlines)
 - [Norwegian Air Shuttle](https://flightsim.to/file/22376/aerosoft-bombardier-crj700-norwegian-air-shuttle)
@@ -11,6 +16,8 @@ List of supported liveries:
 - [Atlantic Airways](https://flightsim.to/file/22347/aerosoft-crj700-msfs-atlantic-airways)
 - [KLM Cityhopper](https://flightsim.to/file/10868/aerosoft-crj-700-klm-cityhopper)
 - [Air Berlin](https://flightsim.to/file/13284/aerosoft-crj700-air-berlin-version-2)
+- Lufthansa Regional*
+- Lufthansa Cityline*
 - Delta Airlines*
 - AirFrance HOP!*
 - American Eagle*
