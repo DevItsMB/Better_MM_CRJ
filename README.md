@@ -1,6 +1,12 @@
 # Better Model Matching VATSIM |  Aerosoft CRJ
 
 List of supported liveries:
+- [Luxair](https://flightsim.to/file/10435/luxair-crj-700)
+- [Nordica](https://flightsim.to/file/10512/crj700-nordic)
+- [Iberia](https://flightsim.to/file/11461/iberia-crj-700-8k)
+- [Philippine Airlines Express](https://flightsim.to/file/10597/8k-crj700-philippine-airlines-express)
+- [Lauda Air](https://flightsim.to/file/12897/crj-700-lauda-air)
+- [California Pacific](https://flightsim.to/file/10540/california-pacific-crj-700-8k)
 - [Ryanair](https://flightsim.to/file/10848/aerosoft-crj-700-ryanair)
 - [Aer Lingus Regional](https://flightsim.to/file/10508/aerosoft-crj-700-aer-l)
 - [LoganAir](https://flightsim.to/file/10414/aerosoft-crj-700-loganair)
